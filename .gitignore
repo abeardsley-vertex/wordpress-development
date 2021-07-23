@@ -1,6 +1,9 @@
 
-./data
-./wordpress
-./plugins/akismet
-./plugins/hello.php
-./themes
+# ignore auto-created wordpress stuff
+/data
+/wordpress
+/plugins/akismet/*
+/plugins/hello.php
+/themes/twentynineteen
+/themes/twentytwenty
+/themes/twentytwentyone
