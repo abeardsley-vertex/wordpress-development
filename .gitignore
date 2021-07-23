@@ -1,6 +1,6 @@
 
-data
-wordpress
-plugins/akismet
-plugins/hello.php
-themes
+./data
+./wordpress
+./plugins/akismet
+./plugins/hello.php
+./themes
