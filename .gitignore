@@ -2,8 +2,8 @@
 # ignore auto-created wordpress stuff
 /data
 /wordpress
-/plugins/akismet/*
-/plugins/hello.php
-/themes/twentynineteen
-/themes/twentytwenty
-/themes/twentytwentyone
+/wp-content/plugins/akismet/*
+/wp-content//plugins/hello.php
+/wp-content//themes/twentynineteen
+/wp-content//themes/twentytwenty
+/wp-content//themes/twentytwentyone
